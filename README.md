@@ -1,2 +1,2 @@
 # plus-window
-duplicates your currently active window
+very janky script to duplicate the currently active window
